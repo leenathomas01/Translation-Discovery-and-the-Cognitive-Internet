@@ -3,6 +3,7 @@
 ## Origin
 
 Started from a question raised while reading an ASI pathways paper:
+https://arxiv.org/html/2606.12683v1
 
 > What if the path from AGI to ASI is not a single giant intelligence, but a network of specialized intelligences capable of sharing learned structure?
 
